@@ -1,6 +1,6 @@
 <?PHP
      
-    $usr = $_POST['usr'];
+    $user = $_POST['username'];
 	
 	// Add your own access token bellow to make this script work
 	
