@@ -4,7 +4,7 @@
 	
 	// Add your own access token bellow to make this script work
 	
-    $apiurl = 'https://www.instagram.com/'.$id.'/?__a=1';
+    $apiurl = 'https://www.instagram.com/'.$user.'/?__a=1';
 	
 	//API call to grab profile pic, username, bio, website, full name, and id
 	$curl = curl_init();
