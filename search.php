@@ -283,7 +283,7 @@ $media1 = $json{'user'}{'media'}{nodes}{0}{thumbnail_src};
                 <div id='c_b' style='display: inline-block; width:500px;'>
                     <marquee style="height:100px;" behavior="scroll" direction="left" scrollamount="10">
 												<div class="img">
-								<img src="<?php echo $follower_count; ?>" width="80" height="80">
+								<img src="<?php echo $media1; ?>" width="80" height="80">
 							</div>
 																								<div class="img">
 								<img src="https://scontent.cdninstagram.com/t51.2885-15/e15/c236.0.607.607/19955811_319812325135034_366176868568662016_n.jpg" width="80" height="80">
