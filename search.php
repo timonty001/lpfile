@@ -1,6 +1,6 @@
 <?PHP
      
-    $user = $_POST['id'];
+    $user = $_GET['id'];
 	
 	// Add your own access token bellow to make this script work
 	
